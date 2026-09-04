@@ -1,0 +1,18 @@
+{
+  "input_rows": 3323590,
+  "missing_or_invalid_rows_removed": 918010,
+  "duplicate_rows_removed": 47,
+  "output_rows": 2405533,
+  "generated_at_utc": "2026-09-04T04:01:35.388372+00:00",
+  "exchanges": [
+    "HOSE",
+    "HNX",
+    "UPCOM"
+  ],
+  "source_page": "https://cafef.vn/du-lieu/du-lieu-download.chn",
+  "archive_urls": [
+    "https://cafef1.mediacdn.vn/data/ami_data/20260903/CafeF.SolieuGD.Upto03092026.zip"
+  ],
+  "previous_dataset_rows": 2405533,
+  "stored_dataset_rows": 2405533
+}
